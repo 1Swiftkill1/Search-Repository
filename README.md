@@ -10,7 +10,7 @@ React-приложение для поиска репозиториев на Git
 
 ## Технологии
 
-- **Frontend**:
+- **Frontend**:::
   - React 18
   - TypeScript
   - Redux Toolkit (RTK Query)
