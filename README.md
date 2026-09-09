@@ -16,7 +16,7 @@ React-приложение для поиска репозиториев на Git
   - Redux Toolkit (RTK Query)
   - Material UI v5
   - date-fns (форматирование дат)
-- **Стилизация**:
+- **Стилизация**:::
   - CSS Modules
   - Sass
 - **Инструменты**:
